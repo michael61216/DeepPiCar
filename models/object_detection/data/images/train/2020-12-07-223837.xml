@@ -1,7 +1,7 @@
 <annotation>
 	<folder>train</folder>
 	<filename>2020-12-07-223837.jpg</filename>
-	<path>C:\Users\Michael Lin\Desktop\DeepPiCar\object detection\train\2020-12-07-223837.jpg</path>
+	<path>C:\Users\Michael Lin\Desktop\DeepPiCar_project\object detection\train\2020-12-07-223837.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -45,18 +45,6 @@
 			<ymin>227</ymin>
 			<xmax>306</xmax>
 			<ymax>293</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>Person</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>425</xmin>
-			<ymin>299</ymin>
-			<xmax>543</xmax>
-			<ymax>452</ymax>
 		</bndbox>
 	</object>
 	<object>

@@ -48,18 +48,6 @@
 		</bndbox>
 	</object>
 	<object>
-		<name>Person</name>
-		<pose>Unspecified</pose>
-		<truncated>1</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>423</xmin>
-			<ymin>328</ymin>
-			<xmax>570</xmax>
-			<ymax>480</ymax>
-		</bndbox>
-	</object>
-	<object>
 		<name>Speed Limit 40</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
